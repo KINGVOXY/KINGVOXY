@@ -24,3 +24,5 @@ I'm Daruo.
 </p>
 
 [![portfolio site](https://daruo.dev/assets/ps_screen.png)<br>ポートフォリオサイト - daruo.dev](https://daruo.dev)
+
+![recently played](https://spotify-recently-played-readme.vercel.app/api?user=taruto0830&unique={true|1|on|yes}&count=10&width=700)
