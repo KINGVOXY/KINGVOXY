@@ -23,6 +23,6 @@ I'm Daruo.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KINGVOXY&theme=onedark&show_icons=ture" />
 </p>
 
-[![portfolio site](https://daruo.dev/assets/ps_screen.png)<br>ポートフォリオサイト - daruo.dev](https://daruo.dev)
+[![portfolio site](https://daruo.dev/images/work3.png?__frsh_c=89swjhfbftdg)<br>ポートフォリオサイト - daruo.dev](https://daruo.dev)
 
 ![recently played](https://spotify-recently-played-readme.vercel.app/api?user=taruto0830&unique={true|1|on|yes}&count=10&width=700)
